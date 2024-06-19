@@ -1,4 +1,4 @@
-# EmpresaEjercicio
+# Ejercicio Empresa
 Ejercicio realizado en python para manejar empleados y algunos de sus datos
 
 ## Actividad: Empresa
